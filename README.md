@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/legalprogrammer?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 - 🔭 I’m currently working on more front-end Projects!
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently learning solana and flutter
 - 👯 I’m looking to get hired
 - 🥅 2020 Goals: Work on more practical projects that solve real problems
 - ⚡ Fun fact: I love writing and arguing
